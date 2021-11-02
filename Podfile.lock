@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Bond (7.8.1):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - FCAlertView (1.4.0)
+  - JGProgressHUD (2.0.4)
+  - Kingfisher (4.10.1)
+  - MXParallaxHeader (1.1.0)
+  - ReactiveKit (3.17.4)
+  - SkeletonView (1.25.1)
+  - SwiftMessages (9.0.5):
+    - SwiftMessages/App (= 9.0.5)
+  - SwiftMessages/App (9.0.5)
+  - SwiftyJSON (5.0.1)
+  - ViewAnimator (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - Bond
+  - FCAlertView
+  - JGProgressHUD (~> 2.0.3)
+  - Kingfisher (~> 4.10.0)
+  - MXParallaxHeader
+  - SkeletonView
+  - SwiftMessages
+  - SwiftyJSON
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bond
+    - Differ
+    - FCAlertView
+    - JGProgressHUD
+    - Kingfisher
+    - MXParallaxHeader
+    - ReactiveKit
+    - SkeletonView
+    - SwiftMessages
+    - SwiftyJSON
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Bond: 87075c7f20f37ea3e73dc7057fce839787bf46eb
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+  JGProgressHUD: 62658b14e72cccf179efc7a13bcb54d30b92fc22
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MXParallaxHeader: de3c867e10ba46e8f6e20c8ee1f2a910372b3b94
+  ReactiveKit: f9f9e079efa39312c597bf1508ef4810d111ce76
+  SkeletonView: 77079530e1348a72f48b79ae30dcb966c1b18b6a
+  SwiftMessages: 9cca50659fa22bb523b4dd2a958d4442e843a354
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+
+PODFILE CHECKSUM: 581d3b63e53aea933918d2fadeb7fa1a085bc147
+
+COCOAPODS: 1.11.2

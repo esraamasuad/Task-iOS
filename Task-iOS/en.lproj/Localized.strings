@@ -1,0 +1,19 @@
+/* 
+  Localized.strings
+  DrAlkhayatApp-IOS
+
+  Created by Esraa Masuad on 5/10/20.
+  Copyright © 2020 Esraa Masuad. All rights reserved.
+*/
+
+//"AppRegularFont" = "Montserrat-Regular";
+//"AppBoldFont" = "Montserrat-Bold";
+//"AppRegularFont_ar" = "Montserrat-Regular";
+
+"AppRegularFont" = "Roboto-Regular";
+"AppBoldFont" = "Roboto-Bold";
+"AppRegularFont_ar" = "Montserrat-Regular";
+
+"BSImagePicker.Done" = "Done";
+
+ 

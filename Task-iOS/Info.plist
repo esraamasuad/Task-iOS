@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Books Task</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>198249675630124</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<true/>
+	<key>FirebaseScreenReportingEnabled</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_NAME) needs your permission to access your camera to upload your profile photo.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>$(PRODUCT_NAME) needs your permission to access your  to your contact to make welcome cards for them while registration, in addition to provide the ability to share and save contact at your device.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To get nearby places.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>$(PRODUCT_NAME) needs your permission to access your microphone to record your profile voice idintifier.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>$(PRODUCT_NAME) needs your permission to access your photos to upload your profile photo.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Roboto-Bold.ttf</string>
+		<string>Roboto-Medium.ttf</string>
+		<string>Roboto-Black.ttf</string>
+		<string>Roboto-Regular.ttf</string>
+		<string>Cairo-Bold.ttf</string>
+		<string>Cairo-Regular.ttf</string>
+		<string>Montserrat-Bold.otf</string>
+		<string>Montserrat-Regular.otf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+</dict>
+</plist>
